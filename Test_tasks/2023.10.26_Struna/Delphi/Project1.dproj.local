@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.985,=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,D:\Program Files (x86)\Embarcadero_projects\Unit2.pas=D:\Program Files (x86)\Embarcadero_projects\LogWriterUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,D:\Program Files (x86)\Embarcadero_projects\Project1.dproj=D:\Program Files (x86)\Embarcadero_projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,=D:\Program Files (x86)\Embarcadero_projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,D:\Program Files (x86)\Embarcadero_projects\StrunaConst.pas=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\Program Files (x86)\Embarcadero_projects\ThreadUnit.pas=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,=D:\Program Files (x86)\Embarcadero_projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,=D:\Program Files (x86)\Embarcadero_projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
