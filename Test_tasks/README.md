@@ -1,1 +1,1 @@
-There are different test tasks in this folder.
+Различные тестовые задания
