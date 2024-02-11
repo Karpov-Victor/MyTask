@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.628,D:\Program Files (x86)\MyProjects\Unit2.pas=D:\Program Files (x86)\MyProjects\IniAnalyzer\ver0\MainFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,=D:\Program Files (x86)\MyProjects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,D:\Program Files (x86)\MyProjects\Project2.dproj=D:\Program Files (x86)\MyProjects\IniAnalyzer\ver0\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,=D:\Program Files (x86)\MyProjects\IniAnalyzer\ver0\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,D:\Program Files (x86)\MyProjects\Unit2.dfm=D:\Program Files (x86)\MyProjects\IniAnalyzer\ver0\MainFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=D:\Program Files (x86)\MyProjects\Unit2.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
